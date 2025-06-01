@@ -27,7 +27,7 @@ A Python desktop application with a powerful Tkinter GUI that helps IT professio
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/traviszech/ebay-price-scraper.git
+git clone https://github.com/traviszech/Ebay-Price-Scraper-with-Median-Pricing.git
 cd ebay-price-scraper
 pip install -r requirements.txt
 python EbayPriceScraper.py
