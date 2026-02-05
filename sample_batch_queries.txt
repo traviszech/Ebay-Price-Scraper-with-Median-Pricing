@@ -1,0 +1,16 @@
+# Sample Batch Import File for eBay Analyzer
+# One product per line
+# Lines starting with # are ignored
+
+# Cisco Switches
+Cisco Catalyst 2960-X 48 port
+Cisco Catalyst 2960-S 48 port
+Cisco Catalyst 3750-X
+
+# Juniper Switches
+Juniper EX2200-48T
+Juniper EX3300-48T
+
+# Dell Switches
+Dell PowerConnect 5548
+Dell PowerConnect 6248

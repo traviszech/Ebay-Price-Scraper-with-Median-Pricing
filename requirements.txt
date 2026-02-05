@@ -1,9 +1,18 @@
-requests
-beautifulsoup4
-lxml
-matplotlib
-scikit-learn
-pandas
-numpy
-tk
-openai
+# eBay Price Analyzer - Requirements
+# Install with: pip install -r requirements.txt
+
+# Web scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# GUI
+# tkinter is built into Python, no need to install
+
+# Data visualization
+matplotlib==3.8.2
+
+# Scientific computing and machine learning
+numpy==1.26.3
+scikit-learn==1.4.0
+
+# No external database driver needed - sqlite3 is built into Python
